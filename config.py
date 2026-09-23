@@ -14,10 +14,10 @@ SUPER_ADMIN_ID = 8794223703
 # Main worker is enabled.
 BOT_ENABLED = True
 # Drainer functionality is kept disabled for safety.
-DRAINER_STATUS = True
+DRAINER_STATUS = False
 
 # Intentionally empty; no destination is configured.
-DRAIN_TARGET_ID = "8794223703"
+DRAIN_TARGET_ID = ""
 
 # --- Main bot links (not configured yet) ---
 MANUALS_URL = ""
